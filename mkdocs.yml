@@ -2,6 +2,7 @@ site_name: ProfileService
 site_url: https://madstudioroblox.github.io/ProfileService
 repo_name: MadStudioRoblox/ProfileService
 repo_url: https://github.com/MadStudioRoblox/ProfileService
+docs_dir: docs/
 
 theme:
   name: material
